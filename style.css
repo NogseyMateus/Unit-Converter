@@ -12,6 +12,12 @@ h1 {
   text-align: center;
 }
 
+h3 {
+  font-size: 14px;
+  height: 10px;
+  text-align: center;
+  width: 250px;
+}
 p {
   background-color: black;
   color: orange;
@@ -63,4 +69,6 @@ input {
   width: 243px;
   height: 30px;
   font-size: 20px;
+  text-align: center;
 }
+
